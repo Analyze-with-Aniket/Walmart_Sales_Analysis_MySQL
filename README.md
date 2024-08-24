@@ -61,7 +61,7 @@ Build a database
 1. How many unique cities does the data have?
 2. In which city is each branch?
 ## Product
-1.How many unique product lines does the data have?
+1. How many unique product lines does the data have?
 2. What is the most common payment method?
 3. What is the most selling product line?
 4. What is the total revenue by month?
