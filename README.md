@@ -111,7 +111,7 @@ $ \text{Gross Margin} = \frac{\text{gross income}}{\text{total revenue}} $
 
 - $ \text{Unite Price} = 45.79 $
 - $ \text{Quantity} = 7 $
-- 
+  
 $ COGS = 45.79 * 7 = 320.53 $
 
 $ \text{VAT} = 5% * COGS\= 5% 320.53 = 16.0265 $
@@ -121,5 +121,5 @@ $ total = VAT + COGS\= 16.0265 + 320.53 =
 
 $ \text{Gross Margin Percentage} = \frac{\text{gross income}}{\text{total revenue}}\=\frac{16.0265}{336.5565} = 0.047619\\approx 4.7619% $
 
-Code
+# Code
 For the rest of the code, check the SQL_queries.sql file
